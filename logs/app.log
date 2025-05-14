@@ -1,0 +1,8 @@
+2025-05-13 19:20:19,824 - INFO - Logging system initialized.
+2025-05-13 19:20:41,142 - INFO - Received task: This is an urgent message containing a password.
+2025-05-13 19:20:41,156 - WARNING - Alert triggered: Contains 'password' -- Report saved to error_reports/alert_20250513_192041.txt
+2025-05-13 19:20:41,309 - INFO - Task c38f6bd3-4d4c-4629-b382-be7383eb38fd submitted to Celery
+2025-05-13 19:37:29,211 - INFO - Logging system initialized.
+2025-05-13 19:37:49,618 - INFO - Received task: This contains a password
+2025-05-13 19:37:49,634 - WARNING - Alert triggered: Contains 'password' -- Report saved to error_reports/alert_20250513_193749.txt
+2025-05-13 19:37:49,750 - INFO - Task 6d466055-a504-4e70-b145-ab43bd85e49c submitted to Celery
